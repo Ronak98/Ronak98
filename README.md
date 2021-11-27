@@ -7,7 +7,7 @@
 
 <br />
 
-Hi, I'm [Ronak Soni](), a passionate "Frontend Developer" with 2+ years of professional experience building web & mobile applications.
+Hi, I'm Ronak Soni, a passionate "Frontend Developer" with 2+ years of professional experience building web & mobile applications. <br />
 I take great care in the experience, architecture, and code quality of the things I build.
 
 - 💬 ask me about anything, I'm happy to help;
